@@ -1,4 +1,5 @@
-# ~/.config/starship.toml
+# mkdir -p ~/.config/starship.toml && curl -s https://raw.githubusercontent.com/xUNiiTY/Backup/refs/heads/main/Terminal/starship.toml >> etst.txt
+
 
 # Inserts a blank line between shell prompts
 add_newline = true
