@@ -1,0 +1,1 @@
+mkdir -p ~/.config && touch starship.toml && curl -s https://raw.githubusercontent.com/xUNiiTY/Backup/refs/heads/main/Terminal/starship.toml >> ~/.config/starship.toml
